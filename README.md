@@ -1,21 +1,13 @@
 # News Project
 
-News app that lets you filter by sources and topics as well as search for specific sources
+News app that lets you view top news or search for specific topic using https://newsapi.org/
 
 
 ![](https://media.giphy.com/media/IbT7xLS4pcN2nzkTi6/giphy.gif)
 
 ## Top News
-Click on top news to see top headlines
-Filter by sources or topics.
-Add sources or topics in top bar on left.
-Source Filter is an OR filter, topic filter is an AND filter
+Default view displays top news
 
 ## Search
 Click on search to search for article of any topic
 
-
-### TODO: 
-Fix pillbug filter
-Fix back of newscard height issue
-Add form validation
