@@ -11,3 +11,8 @@ Default view displays top news
 ## Search
 Click on search to search for article of any topic
 
+## How To run
+clone repository
+npm install
+npm start
+
