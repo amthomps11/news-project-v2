@@ -2,6 +2,9 @@
 
 News app that lets you filter by sources and topics as well as search for specific sources
 
+
+![](https://media.giphy.com/media/IbT7xLS4pcN2nzkTi6/giphy.gif)
+
 ## Top News
 Click on top news to see top headlines
 Filter by sources or topics.
