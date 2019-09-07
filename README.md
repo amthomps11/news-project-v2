@@ -2,6 +2,8 @@
 
 News app that lets you view top news or search for specific topic using https://newsapi.org/
 
+app deployed at http://newsappv2.surge.sh/
+
 
 ![](https://media.giphy.com/media/IbT7xLS4pcN2nzkTi6/giphy.gif)
 
